@@ -10,7 +10,7 @@ Yield farming / staking smart contract that has an ability to use any elected ER
 - @openzeppelin/contracts/access/Ownable.sol
 - @openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol
 
-### Constructor
+### Constructor Agruments
 - _rewardToken: ERC20 contract address that will be used for the farming/staking rewards
 - _rewardPerSecond: The number of tokens that will be allocated to farmers/stakers each second
 - _startTime: The block timestamp the rewards will start distributing to farmers/stakers
