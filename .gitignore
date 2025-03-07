@@ -12,3 +12,7 @@ docs/
 
 # Dotenv file
 .env
+
+# Build Files
+node_modules
+package-lock.json
